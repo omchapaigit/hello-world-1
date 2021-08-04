@@ -1,2 +1,7 @@
 this is second test file
+<<<<<<< HEAD
 this is the modification
+||||||| merged common ancestors
+=======
+this is a new line
+>>>>>>> master
